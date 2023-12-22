@@ -5,7 +5,7 @@ export const ProductsTable = (props) =>{
     const products = props.products
     console.log(products)
     return (<div>
-        <h3>{category}</h3>
+        <h3>{category}Products</h3>
         <table>
             <thead>
                 <tr>
